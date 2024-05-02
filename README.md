@@ -1,2 +1,2 @@
 # datafun-01-utils
-test repo
+Reusable utilities for my Python projects
